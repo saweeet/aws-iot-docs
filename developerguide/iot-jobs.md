@@ -7,7 +7,7 @@ Use AWS IoT Jobs to define a set of remote operations that can be sent to and ru
 You can get started with AWS IoT Jobs by using the console or the AWS IoT Core API\.
 
 **Using the console**  
-Sign in to the AWS Management Console, and go to the AWS IoT console\. In the navigation pane, choose **Manage**, and then choose **Jobs**\. You can create and manage jobs from this section\. If you want to create and manage job templates, in the navigation pane, choose **Job templates**\. For more information, see [Create and manage jobs by using the AWS Management Console](manage-job-console.md)\.
+Sign in to the AWS Management Console, and go to the AWS IoT console\. In the navigation pane, choose **Remote actions**, and then choose **Jobs**\. You can create and manage jobs from this section\. If you want to create and manage job templates, in the navigation pane, choose **Job templates**\. For more information, see [Create and manage jobs by using the AWS Management Console](manage-job-console.md)\.
 
 **Using the API or CLI**  
 You can get started by using the AWS IoT Core API operations\. For more information, see [AWS IoT API Reference](https://docs.aws.amazon.com/iot/latest/apireference/)\. The AWS IoT Core API that AWS IoT jobs is built on is supported by the AWS SDK\. For more information, see [AWS SDKs and Toolkits](https://aws.amazon.com/getting-started/tools-sdks/)\. 
