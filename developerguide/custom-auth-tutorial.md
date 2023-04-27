@@ -93,7 +93,7 @@ The Lambda function does the following:
    // A simple Lambda function for an authorizer. It demonstrates
    // How to parse a CLI and Http password to generate a response.
    
-   exports.handler = function(event, context, callback) {
+   export const handler = async (event, context, callback) => {
    
        //Http parameter to initiate allow/deny request
        const HTTP_PARAM_NAME='actionToken';
